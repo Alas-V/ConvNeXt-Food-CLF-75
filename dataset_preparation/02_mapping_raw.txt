@@ -1,0 +1,1681 @@
+=== candy ===
+  Candy
+  candy
+  candy coating
+  gummy candy
+  watermelon candy
+
+=== egg tart ===
+  egg tart
+  egg tarts
+
+=== french fries ===
+  French Fries
+  French fries
+  french fries
+
+=== chocolate ===
+  Chocolate
+  Dove Chocolate
+  almond white chocolate
+  chocolate
+  chocolate balls
+  chocolate bar
+  chocolate candies
+  chocolate candy
+  chocolate chips
+  chocolate crumbs
+  chocolate crust
+  chocolate decoration
+  chocolate decorations
+  chocolate drizzle
+  chocolate garnish
+  chocolate pieces
+  chocolate powder
+  chocolate shavings
+  chocolate snack bar
+  chocolate sprinkles
+  chocolate stick
+  chocolate swirl
+  dark chocolate
+  white chocolate
+  white chocolate drizzle
+
+=== biscuit ===
+  Lotus biscuit
+  biscuit
+  biscuit stick
+  biscuit sticks
+  biscuits
+  chocolate biscuit
+  sweet biscuits
+
+=== cookie ===
+  Butter Cookies
+  Lotus cookies
+  Oreo cookie
+  Oreo cookies
+  bear-shaped cookie
+  chocolate cookie
+  chocolate cookie crumbs
+  chocolate cookies
+  cookie
+  cookie crumbles
+  cookie crumbs
+  cookie pieces
+  cookie stick
+  cookies
+  crushed cookies
+  decorative cookie
+  gingerbread cookie
+  smiley cookies
+  wafer cookies
+
+=== popcorn ===
+  popcorn
+  popcorn kernels
+
+=== pudding ===
+  black pudding
+  blood pudding
+  chocolate pudding
+  egg pudding
+  pudding
+
+=== ice cream ===
+  High Protein Ice Cream
+  Ice Cream
+  black ice cream
+  blueberry ice cream
+  chocolate chip ice cream
+  chocolate ice cream
+  green tea ice cream
+  ice cream
+  ice cream base
+  ice cream cone
+  ice cream filling
+  lavender ice cream
+  mango ice cream
+  matcha ice cream
+  mint ice cream
+  pistachio ice cream
+  soft serve ice cream
+  soft-serve ice cream
+  strawberry ice cream
+  vanilla ice cream
+
+=== cheese ===
+  Blue Cheese
+  Brinza cheese
+  Cheese
+  Cheese Cream
+  Cheese sticks
+  Feta cheese
+  Gouda cheese
+  Mature Cheese
+  Parmesan cheese
+  Swiss cheese
+  blue cheese
+  brie cheese
+  cheddar cheese
+  cheddar cheese flavoring
+  cheese
+  cheese curds
+  cheese tart
+  cheeses
+  cream cheese
+  feta cheese
+  mozzarella cheese
+  parmesan cheese
+  processed cheese
+  ricotta cheese
+  salted cheese
+  shredded cheese
+  soft cheese
+  various cheeses
+
+=== butter ===
+  Butter
+  butter
+  buttercream
+  oil or butter
+
+
+=== cake ===
+  Baagu Cake
+  Birthday cake
+  Chocolate Cake
+  Chocolate cake
+  Fish cake
+  Fried cake
+  Pancake
+  Pancakes
+  Tteok (rice cakes)
+  birthday cake
+  black bean cake
+  blood cake
+  bread or pancake
+  cake
+  cake batter
+  cake crust
+  cake layers
+  cake pieces
+  cake roll
+  cake sponge
+  cheesecake
+  chocolate cake
+  chocolate roll cake
+  chocolate sponge cake
+  colorful rice cakes
+  crispy pancake
+  cupcake
+  cupcakes
+  egg cake
+  fish cake
+  fish cakes
+  fried cake
+  fried cakes
+  green cake
+  green cakes
+  green pancake
+  green tea cake
+  layered cake
+  mini cakes
+  mooncake
+  pancake
+  pancake wrap
+  pancake wraps
+  pancakes
+  pineapple cake
+  potato cakes
+  potato pancake
+  red velvet cake
+  rice cake
+  rice cakes
+  roll cake
+  rolled pancake
+  savory pancake
+  scallion pancake
+  sesame cakes
+  skewered fish cakes
+  snack cakes
+  spicy cake
+  spicy rice cakes
+  sponge cake
+  starchy cake
+  steamed cakes
+  tteok (rice cakes)
+  vegetable pancakes
+
+=== wine ===
+  red wine
+  rice wine
+  wine
+
+=== milkshake ===
+  milkshake
+
+=== coffee ===
+  Arabica coffee beans
+  Coffee
+  Coffee beans
+  Instant Coffee
+  Robusta coffee beans
+  coffee
+  coffee beans
+  coffee drink
+  coffee extract
+  coffee flavor
+  coffee flavoring
+  coffee grounds
+  coffee powder
+  coffee syrup
+  iced coffee
+  instant coffee
+  tea leaves or coffee grounds
+  tea leaves/coffee
+  tea or coffee
+  
+
+=== juice ===
+  Cherry juice
+  Fruit Juice
+  Lychee juice
+  Orange Juice
+  Pineapple Juice
+  apple juice
+  beet juice
+  blackcurrant juice
+  blueberry juice
+  carrot juice
+  citrus juice
+  fruit juice
+  fruit juice blend
+  fruit juices
+  grape juice
+  grapefruit juice
+  guava juice
+  juice
+  juice infusion
+  lemon juice
+  lime juice
+  lotus leaf juice
+  mango juice
+  orange juice
+  prune juice
+  strawberry juice
+  tomato juice
+  vegetable juice
+  vinegar or lemon juice
+
+=== milk ===
+  A2 Milk
+  Camel milk
+  Cow milk
+  Fermented Milk
+  Low Fat Milk
+  Low-fat milk
+  Milk
+  Milk Powder
+  Milk powder
+  Oat Milk
+  Skim milk
+  Soy Milk
+  Soy milk
+  almond milk
+  baked condensed milk
+  buffalo milk
+  buttermilk
+  camel milk
+  condensed milk
+  evaporated milk
+  fermented milk
+  fresh milk
+  full cream milk
+  goat milk powder
+  low-fat milk
+  milk
+  milk drinks
+  milk protein
+  milk solids
+  milk tea
+  organic milk
+  raw milk
+  skim milk
+  soy milk
+  soymilk
+  steamed milk
+  sweetened condensed milk
+  sweetened milk
+  sweetened milk drink
+  whole milk
+
+=== tea ===
+  Green Tea
+  Green Tea Beverage
+  Green tea
+  Green tea extract
+  Iced Tea
+  Peach Earl Grey Tea
+  Tea
+  Tea Extract
+  Thai tea
+  black tea
+  black tea extract
+  fruit tea
+  green tea
+  green tea extract
+  herbal tea
+  iced tea
+  lemon tea
+  milk tea
+  oolong tea
+  powdered tea
+  sweet tea
+  tea
+  tea extract
+  
+=== almond ===
+  Almonds
+  almond
+  almond flakes
+  almonds
+
+=== walnut ===
+  Walnut
+  Walnuts
+  walnut
+  walnuts
+
+=== peanut ===
+  Peanuts
+  black peanuts
+  crushed peanuts
+  peanut
+  peanuts
+
+=== cranberry ===
+  cranberry filling
+  cranberry flavor
+  
+=== strawberry ===
+  Strawberry
+  strawberry
+  strawberry filling
+  strawberry jam
+  strawberry pieces
+  strawberry puree
+  
+=== cherry ===
+  cherry
+  cherry filling
+  
+
+=== blueberry ===
+  Blueberry
+  blueberry
+  blueberry filling
+  
+=== raspberry ===
+  Raspberry
+  raspberry
+  raspberry filling
+
+=== grape ===
+  Grapes
+  Green Grapes
+  Kyoho grapes
+  black grapes
+  dried grapes
+  grape
+  grapes
+  green grapes
+  purple grapes
+  red grapes
+  seedless grapes
+
+=== beans ===
+  Beans
+  Green Beans
+  Green beans
+  Mung beans
+  Red beans
+  Soybeans
+  baked beans
+  beans
+  black beans
+  black soybeans
+  broad beans
+  dried beans
+  fava beans
+  fermented soybeans
+  green beans
+  horsebeans
+  kidney beans
+  long beans
+  mixed beans
+  mung beans
+  orchid beans
+  red beans
+  red kidney beans
+  refried beans
+  roasted beans
+  salted black beans
+  snack beans
+  soybeans
+  sprouted beans
+  sweet beans
+  sweet red beans
+  sweetened beans
+  sweetened red beans
+  various beans
+  white beans
+  yellow beans
+
+=== cashew ===
+  Cashew Nuts
+  Cashews
+  cashew nuts
+  cashews
+
+=== soy ===
+  Soybeans
+  black soybeans
+  fermented soybeans
+  seasoned soy protein
+  soy lecithin
+  soy protein
+  soybean
+  soybeans
+  
+
+=== egg ===
+  Century Egg
+  Century Eggs
+  Century egg
+  Century eggs
+  Duck egg
+  Egg
+  Eggs
+  baked egg dish
+  black egg
+  boiled egg
+  boiled eggs
+  brown egg
+  century egg
+  century eggs
+  chicken egg
+  chicken eggs
+  cooked egg
+  duck egg
+  duck eggs
+  egg
+  egg yolk
+  egg yolks
+  eggs
+  fried egg
+  fried eggs
+  hard-boiled egg
+  hard-boiled eggs
+  pickled eggs
+  poached egg
+  poached eggs
+  preserved egg
+  preserved eggs
+  quail egg
+  quail eggs
+  salted egg yolk
+  scrambled eggs
+  soft-boiled egg
+  soft-boiled eggs
+  white egg
+
+=== apple ===
+  Apple
+  Apples
+  Dried apples
+  Green Apple
+  Green Apples
+  Green apples
+  Red Apple
+  Red apples
+  apple
+  apple slices
+  apples
+  baked apples
+  caramelized apples
+  dried apple
+  dried apples
+  fried apples
+  green apple
+  green apples
+  red apple
+  red apples
+  rose apple
+  yellow apple
+  yellow apples
+
+=== date ===
+  date
+  dates
+  dried date
+  dried dates
+  dried red dates
+  red date
+  red dates
+
+=== apricot ===
+  Apricot
+  Apricots
+  apricot
+  apricots
+  dried apricots
+
+=== avocado ===
+  Avocado
+  avocado
+  avocado sauce
+  diced avocado
+
+=== banana ===
+  Banana
+  Bananas
+  banana
+  bananas
+  dried banana
+  dried bananas
+  fried bananas
+  green bananas
+
+=== mango ===
+  Mango
+  Mango puree
+  dried mango
+  green mango
+  green mangoes
+  mango
+  mango puree
+  
+=== olives ===
+  Olives
+  black olives
+  green olives
+  olives
+
+=== peach ===
+  Peach
+  dried peaches
+  peach
+  peach slices
+  peaches
+  yellow peaches
+
+=== lemon ===
+  Lemon
+  Lemons
+  grilled lemon
+  lemon
+  lemon slice
+  lemons
+  
+=== pear ===
+  Asian Pear
+  Asian pear
+  Dried Qiuyue Pear
+  Pear
+  Pears
+  dried snow pear
+  fruit pearls
+  pear
+  pearl barley
+  pears
+  snow pear
+  
+=== fig ===
+  Fig
+  Figs
+  dried figs
+  fig
+  fig jam
+  figs
+
+=== pineapple ===
+  Pineapple
+  dried pineapple
+  pineapple
+  
+=== kiwi ===
+  Kiwi
+  Kiwis
+  kiwi
+  kiwifruit
+  kiwis
+
+=== melon ===
+  Honeydew melon
+  Melon
+  Winter Melon
+  green melon
+  melon
+  melons
+  winter melon
+  yellow melon
+
+=== orange ===
+  Mandarin Orange
+  Orange
+  Oranges
+  dried oranges
+  mandarin oranges
+  orange
+  orange segments
+  orange slice
+  orange slices
+  oranges
+
+=== watermelon ===
+  Watermelon
+  watermelon
+  
+=== steak ===
+  Ribeye Steak
+  Steak
+  T-bone steak
+  beef steak
+  grilled steak
+  hamburger steak
+  ribeye steak
+  sirloin steak
+  steak
+
+=== pork ===
+  BBQ pork
+  Grilled pork
+  Pork
+  Pork Belly
+  Pork knuckle
+  beef or pork
+  braised pork
+  breaded pork
+  char siu (BBQ pork)
+  char siu (barbecue pork)
+  char siu (roasted pork)
+  char siu pork
+  chashu pork
+  chasiu (barbecued pork)
+  chicken or pork
+  crispy pork
+  crispy pork skin
+  fried pork
+  fried pork cutlet
+  grilled pork
+  ground pork
+  minced pork
+  pork
+  pork belly
+  pork bits
+  pork buns
+  pork chop
+  pork chops
+  pork cracklings
+  pork cutlet
+  pork ears
+  pork fat
+  pork head
+  pork hindquarters
+  pork hock
+  pork hocks
+  pork knuckle
+  pork knuckles
+  pork liver
+  pork loin
+  pork or beef
+  pork or chicken
+  pork patties
+  pork ribs
+  pork rinds
+  pork shoulder
+  pork skewers
+  pork skin
+  pork trotters
+  pulled pork
+  red pork
+  roast pork
+  roasted pork
+  shredded pork
+  sliced pork
+  sweet and sour pork
+
+=== chicken ===
+  Breaded chicken
+  Chicken
+  Chicken McNuggets
+  Chicken Skewers
+  Chicken Wings
+  Chicken fillet
+  Chicken nuggets
+  Chicken wings
+  Fried Chicken
+  Fried chicken
+  Grilled chicken
+  Roast chicken
+  Roasted chicken
+  boiled chicken
+  braised chicken
+  breaded chicken
+  breaded chicken or fish
+  breaded chicken patty
+  chicken
+  chicken (optional)
+  chicken breast
+  chicken burger
+  chicken cutlet
+  chicken drumstick
+  chicken drumsticks
+  chicken fillet
+  chicken filling
+  chicken katsu
+  chicken nuggets
+  chicken or beef
+  chicken or fish
+  chicken or pork
+  chicken parts
+  chicken patty
+  chicken protein
+  chicken ribs
+  chicken skewers
+  chicken skin
+  chicken strips
+  chicken thigh
+  chicken thighs
+  chicken wing
+  chicken wings
+  chicken/beef
+  chicken/beef skewers
+  chicken/fish
+  crispy coating for chicken
+  diced chicken
+  dried chicken
+  fish or chicken
+  fried chicken
+  fried chicken or similar item
+  fried chicken patty
+  fried chicken pieces
+  fried chicken strips
+  fried chicken wings
+  grilled chicken
+  grilled chicken skewers
+  ground chicken
+  marinated chicken
+  pork or chicken
+  pulled chicken
+  roast chicken
+  roasted chicken
+  roasted chicken/duck
+  sesame chicken
+  shredded chicken
+  shrimp or chicken
+  skewered chicken
+  smoked chicken
+  spicy chicken patty
+  sweet and sour chicken
+  sweet sauce chicken
+  tandoori chicken
+  tofu or chicken
+  whole chicken
+
+=== duck ===
+  Duck
+  Duck Feet
+  Peking Duck
+  Roast Duck
+  Roasted Duck
+  Roasted duck
+  duck
+  duck breast
+  duck feet
+  duck gizzards
+  duck leg
+  duck legs
+  duck meat
+  duck neck
+  duck skin
+  duck wing
+  roast duck
+  roasted chicken/duck
+  roasted duck
+
+=== sausage ===
+  Chinese sausage
+  Sausage
+  Sausages
+  beef sausage
+  black sausage
+  blood sausage
+  chicken sausage
+  cured sausage
+  fried sausage
+  grilled sausages
+  ground sausage
+  hot dog sausage
+  pork sausage
+  pork sausages
+  processed sausage
+  sausage
+  sausage meat
+  sausages
+  skewered sausages
+  sliced sausage
+  smoked sausage
+  snack sausages
+  szechuan sausage
+  various sausages
+
+=== meat ===
+  Cured meats
+  Fish/Meat
+  Goat meat
+  Grilled meat
+  Meat
+  Meat toppings
+  Meatballs
+  Skewered meat
+  animal meat
+  barbecue meat
+  battered meat
+  beef meatballs
+  boiled meat
+  braised meat
+  breaded meat
+  canned meat
+  cooked meat
+  cooked meats
+  crab meat
+  cured meat
+  cured meats
+  diced meat
+  dried meat
+  dried meat or toppings
+  fatty meat
+  fried meatballs
+  frog meat
+  grilled meat
+  grilled meat skewers
+  ground meat
+  ground meat or tofu
+  hind leg meat
+  lamb/goat meat
+  marinated meat
+  meat
+  meat (if present)
+  meat (optional)
+  meat balls
+  meat block
+  meat meal
+  meat pastry
+  meat patties
+  meat patty
+  meat ribs
+  meat roll
+  meat rolls
+  meat skewer
+  meat skewers
+  meat slices
+  meat spread
+  meat stew
+  meat topping
+  meat toppings
+  meatball
+  meatballs
+  meatloaf
+  minced meat
+  minced meat or lentils
+  mixed meat and vegetables
+  mixed meats
+  organ meat
+  preserved meat
+  processed meat
+  pulled meat
+  raw meat
+  roast meat
+  roasted meat
+  seasoned meat
+  shredded meat
+  skewered meat
+  skewered meats
+  sliced meat
+  sliced meats
+  smoked meat
+  snake meat
+  spiced meat
+  spicy meat topping
+  steamed meat
+  stewed meat
+  stir-fried meat
+  stuffed meat
+  thinly sliced meat
+  whole animal meat
+  yak meat
+
+=== lamb ===
+  Lamb
+  lamb
+  lamb chop
+  lamb chops
+  lamb kebab
+  whole lamb
+
+=== sauce ===
+  BBQ sauce
+  Barbecue sauce
+  Berry Sauce
+  Chili sauce
+  Chocolate Sauce
+  Curry sauce
+  Dipping Sauce
+  Dipping sauce
+  Dipping sauces
+  Hollandaise sauce
+  Hot sauce
+  Kung Pao sauce
+  Pepper sauce
+  Sauce
+  Sauces
+  Soy Sauce
+  Soy sauce
+  Spicy Sauce
+  Spicy sauce
+  Tomato Sauce
+  Tomato sauce
+  Vegetable Sauce
+  Vegetable sauce
+  applesauce
+  avocado sauce
+  barbecue sauce
+  beef sauce
+  berry sauce
+  black bean sauce
+  black pepper sauce
+  black sauce
+  blackberry sauce
+  brown sauce
+  buffalo sauce
+  butter sauce
+  béchamel sauce
+  caramel sauce
+  cheese sauce
+  cherry sauce
+  chili sauce
+  chocolate sauce
+  cocktail sauce
+  coconut sauce
+  cranberry sauce
+  cream or sauce
+  cream sauce
+  creamy sauce
+  curry sauce
+  dark soy sauce
+  dipping sauce
+  dipping sauces
+  eel sauce
+  fish sauce
+  fruit sauce
+  garlic sauce
+  ginger sauce
+  glaze sauce
+  glaze/sauce
+  gochujang sauce
+  green sauce
+  grilling sauce
+  hoisin sauce
+  hollandaise sauce
+  hot sauce
+  lingonberry sauce
+  mango sauce
+  marinade sauce
+  marinara sauce
+  meat sauce
+  mustard sauce
+  orange sauce
+  passion fruit sauce
+  peanut sauce
+  pepper sauce
+  pesto sauce
+  pizza sauce
+  purple sauce
+  red sauce
+  saffron sauce
+  sambal sauce
+  sauce
+  sauce base
+  sauce ingredients
+  sauce mix
+  sauce packet
+  sauces
+  savory sauce
+  seafood sauce
+  seasoning sauce
+  sesame sauce
+  soy sauce
+  special sauce
+  spicy dipping sauce
+  spicy sauce
+  stir-fry sauce
+  strawberry sauce
+  sweet and sour sauce
+  sweet and spicy sauce
+  sweet bean sauce
+  sweet chili sauce
+  sweet sauce
+  sweet sauce chicken
+  sweet soy sauce
+  syrup or sweet sauce
+  tartar sauce
+  teriyaki sauce
+  tomato sauce
+  tonkatsu sauce
+  vanilla sauce
+  vegetable sauce
+  walnut sauce
+  yellow sauce
+  yogurt sauce
+
+=== crab ===
+  Crab
+  blue crabs
+  cooked crab meat
+  crab
+  crab claw
+  crab claws
+  crab legs
+  crab meat
+  crab roe
+  crab stick
+  crab sticks
+  crabs
+  fried crab
+  imitation crab
+  imitation crab sticks
+  shredded crab
+
+=== fish ===
+  Catfish
+  Dried Fish
+  Fish
+  Fried fish
+  Sashimi fish
+  anglerfish
+  battered fish
+  breaded fish
+  catfish
+  codfish
+  crawfish
+  crayfish
+  dried fish
+  fermented fish
+  fish
+  fish balls
+  fish broth
+  fish fillet
+  fish fillets
+  fish head
+  fish heads
+  fish maw
+  fish meat
+  flatfish
+  fried fish
+  fried fish fillet
+  grilled fish
+  pickled fish
+  preserved fish
+  raw fish
+  seasoned fish
+  shredded fish
+  sliced fish
+  small fish
+  sushi fish
+  various fish
+  various shellfish
+  white fish
+  whole fish
+
+=== shellfish ===
+  shellfish
+  various shellfish
+
+=== shrimp ===
+  Fried Shrimp
+  Fried shrimp
+  Shrimp
+  Shrimp Flakes
+  dried shrimp
+  fried shrimp
+  grilled shrimp
+  meat or shrimp
+  shrimp
+  shrimp chips
+  shrimp flakes
+  shrimp or chicken
+  soft shell shrimp
+  tempura shrimp
+
+=== soup ===
+  Creamy soup
+  Soup
+  Vegetable Soup
+  Vegetable soup
+  bean soup
+  black bean soup
+  clam soup
+  cream soup
+  creamy soup
+  curry soup
+  light soup
+  miso soup
+  mung bean soup
+  mushroom soup
+  pumpkin soup
+  purple soup
+  seaweed soup
+  soup
+  soup broth
+  soup ingredients
+  soup mix
+  soup vegetables
+  spicy soup
+  sweet bean soup
+  sweet soup
+  sweet soup base
+  sweet soup broth
+  tomato soup
+  vegetable soup
+  wonton soup
+  yellow soup
+
+=== bread ===
+  Bread
+  French bread
+  Garlic bread
+  Pita bread
+  black bread
+  braided bread
+  bread
+  bread crumbs
+  bread crust
+  bread cubes
+  bread roll
+  bread rolls
+  breadcrumbs
+  breading
+  breadsticks
+  buttered bread
+  cornbread
+  dark bread
+  flaky bread
+  flatbread
+  flatbreads
+  fried bread
+  garlic bread
+  green bread
+  grilled bread
+  honey oat bread
+  muffin bread
+  naan bread
+  olive bread
+  panko breadcrumbs
+  pita bread
+  rye bread
+  sandwich bread
+  savory bread
+  sesame bread
+  sesame flatbread
+  sesame seed bread
+  shortbread
+  steamed bread
+  sweet bread
+  toast bread
+  toasted bread
+  wheat bread
+  white bread
+  whole grain bread
+  whole wheat bread
+  wrap bread
+
+=== corn ===
+  Corn
+  baby corn
+  black corn
+  corn
+  corn kernels
+  fried corn
+  grilled corn
+  purple corn
+  sweet corn
+  white corn
+  yellow corn
+
+=== hamburg ===
+  hamburger
+  hamburger bun
+  hamburger buns
+  hamburger patty
+  hamburger steak
+
+=== pizza ===
+  Pizza
+  Pizza crust
+  pizza
+  pizza base
+  pizza crust
+  
+=== hanamaki ===
+  (no matching found)
+
+=== baozi ===
+  (no matching found)
+
+=== wonton ===
+  Wontons
+  crispy wonton
+  crispy wontons
+  fried wonton
+  fried wontons
+  wonton
+  wontons
+
+=== dumplings ===
+  Dumplings
+  dumplings
+  fried dumplings
+  glutinous rice dumplings
+  green dumplings
+  meat dumplings
+  pork dumplings
+  shrimp dumplings
+  sweet dumplings
+  vegetable dumplings
+  yellow dumplings
+
+=== pasta ===
+  Pasta
+  baked pasta
+  black pasta
+  bowtie pasta
+  character pasta
+  pasta
+  penne pasta
+  squid ink pasta
+
+=== noodle ===
+  Noodles
+  black noodles
+  buckwheat noodles
+  colorful noodles
+  crispy noodles
+  dried noodles
+  fine noodles
+  flat noodles
+  flat rice noodles
+  fried noodles
+  glass noodles
+  green noodles
+  instant noodles
+  jelly noodles
+  lasagna noodles
+  noodles
+  ramen noodles
+  rice noodles
+  soba noodles
+  spicy noodles
+  stir-fried noodles
+  sweet potato noodles
+  transparent noodles
+  udon noodles
+  yakisoba noodles
+  yellow noodles
+
+=== rice ===
+  Basmati rice
+  Fried Rice
+  Jollof rice
+  Parboiled rice
+  Rice
+  Sushi rice
+  basmati rice
+  biryani rice
+  black rice
+  blue rice
+  brown rice
+  colored rice
+  flattened rice
+  fried rice
+  glutinous rice
+  green rice
+  jollof rice
+  multigrain rice
+  orange rice
+  puffed rice
+  purple rice
+  red rice
+  rice
+  rice porridge
+  rice puffs
+  steamed rice balls
+  sticky rice
+  sushi rice
+  sweet rice
+  white rice
+  wild rice
+  yellow rice
+
+=== pie ===
+  Pie crust
+  cake pieces
+  pie
+  pie crust
+  pumpkin pie
+  rice crispies
+  
+=== tofu ===
+  Fried Tofu
+  Tofu
+  black tofu
+  blood tofu
+  crispy tofu
+  fried tofu
+  fried tofu skin
+  salted tofu
+  soft tofu
+  stinky tofu
+  tofu
+  tofu skewers
+
+=== eggplant ===
+  Eggplant
+  eggplant
+  eggplants
+  fried eggplant
+  stuffed eggplant
+
+=== potato ===
+  Mashed potatoes
+  Potato
+  Potato chips
+  Potatoes
+  Sweet Potatoes
+  baby potatoes
+  baked potato
+  fried potato
+  fried potatoes
+  fried sweet potato
+  fried sweet potatoes
+  grilled potato
+  mashed potato
+  mashed potatoes
+  mashed sweet potato
+  potato
+  potato balls
+  potato croquettes
+  potato fries
+  potato sides
+  potato skewers
+  potato starch
+  potato sticks
+  potato tots
+  potato wedge
+  potato wedges
+  potatoes
+  purple potatoes
+  purple sweet potato
+  purple sweet potatoes
+  red potato
+  roasted potatoes
+  roasted sweet potatoes
+  stewed potatoes
+  sweet potato
+  sweet potato balls
+  sweet potato fries
+  sweet potatoes
+
+=== garlic ===
+  Garlic
+  black garlic
+  fried garlic
+  garlic
+  roasted garlic
+
+=== cauliflower ===
+  cauliflower
+  fried cauliflower
+  purple cauliflower
+
+=== tomato ===
+  Cherry Tomatoes
+  Cherry tomatoes
+  Green tomatoes
+  Red tomatoes
+  Tomato
+  Tomato paste
+  Tomato puree
+  Tomatoes
+  Yellow tomatoes
+  cherry tomato
+  cherry tomatoes
+  dried tomatoes
+  green tomatoes
+  grilled tomato
+  grilled tomatoes
+  red tomatoes
+  roasted tomatoes
+  sun-dried tomatoes
+  sundried tomatoes
+  tomato
+  tomato concentrate
+  tomato flavoring
+  tomato garnish
+  tomato paste
+  tomato slice
+  tomato soup
+  tomatoes
+  yellow tomatoes
+
+=== kelp ===
+  kelp
+
+=== seaweed ===
+  Seaweed
+  dried seaweed
+  fried seaweed
+  green seaweed
+  seasoned seaweed
+  seaweed
+  seaweed snacks
+  seaweed soup
+
+=== spring onion ===
+  Green Onion
+  Green Onions
+  Green onion
+  Green onions
+  chopped green onions
+  green onion
+  green onions
+  grilled green onions
+
+
+=== onion ===
+  Onion
+  Onion Rings
+  Onions
+  crispy onions
+  fried onion
+  fried onion rings
+  fried onions
+  grilled onions
+  onion
+  onion rings
+  onions
+  pickled onions
+  red onion
+  red onions
+  shredded onion
+  spring onion
+  spring onions
+  
+
+=== rape ===
+(none)
+
+=== ginger ===
+  Ginger
+  ginger
+  pickled ginger
+  sushi ginger
+
+=== okra ===
+  Okra
+  okra
+  okras
+
+=== lettuce ===
+  Lettuce
+  lettuce
+  purple lettuce
+  red lettuce
+  romaine lettuce
+  yellow lettuce
+
+=== pumpkin ===
+  Pumpkin
+  mashed pumpkin
+  pumpkin
+  pumpkin puree
+  roasted pumpkin
+
+=== cucumber ===
+  Cucumber
+  Cucumbers
+  cucumber
+  cucumbers
+  pickled cucumber
+  
+=== white radish ===
+  white radish
+
+=== carrot ===
+  Carrot
+  Carrots
+  carrot
+  carrots
+  shredded carrots
+
+=== asparagus ===
+  Asparagus
+  asparagus
+
+=== bamboo ===
+  bamboo
+  bamboo shoots
+
+=== broccoli ===
+  Broccoli
+  broccoli
+  broccoli stems
+  broccolini
+  steamed broccoli
+
+=== celery ===
+  Celery
+  celery
+
+=== mint ===
+  Mint
+  mint
+  mint frosting
+  mint garnish
+  mint leaf
+  mint leaves
+
+=== peas ===
+  Peas
+  Snap peas
+  black-eyed peas
+  green peas
+  peas
+  snap peas
+  snow peas
+  split peas
+  sugar snap peas
+  wasabi peas
+  yellow peas
+  yellow split peas
+
+=== cabbage ===
+  Cabbage
+  Napa Cabbage
+  Napa cabbage
+  Red cabbage
+  cabbage
+  cooked cabbage
+  napa cabbage
+  purple cabbage
+  red cabbage
+  yellow cabbage
+
+=== sprouts ===
+  Brussels sprouts
+  bean sprouts
+  broccoli sprouts
+  brussels sprouts
+  garlic sprouts
+  roasted Brussels sprouts
+  sprouts
+
+=== pepper ===
+  Bell Pepper
+  Bell Peppers
+  Bell peppers
+  Chili Peppers
+  Chili peppers
+  Dried Chili Peppers
+  Dried Red Peppers
+  Green Peppers
+  Pepper
+  Red Pepper
+  Red Peppers
+  bell pepper
+  bell peppers
+  chili pepper
+  chili peppers
+  dried chili pepper
+  dried chili peppers
+  dried peppers
+  dried red chili peppers
+  dried red peppers
+  green bell pepper
+  green bell peppers
+  green chili pepper
+  green chili peppers
+  green pepper
+  green peppers
+  orange bell pepper
+  orange pepper
+  pepper
+  peppers
+  poblano pepper
+  red bell pepper
+  red bell peppers
+  red chili peppers
+  red pepper
+  red peppers
+  roasted peppers
+  shishito peppers
+  yellow bell pepper
+  yellow bell peppers
+  yellow pepper
+  yellow peppers
+
+=== mushroom ===
+  Enoki mushrooms
+  Mushrooms
+  black mushrooms
+  dried mushrooms
+  enoki mushrooms
+  fried mushrooms
+  morel mushroom
+  morel mushrooms
+  mushroom
+  mushroom flavoring
+  mushroom soup
+  mushrooms
+  shiitake mushrooms
+  tremella mushroom
+  various mushrooms
+  wood ear mushrooms
+
+=== shiitake ===
+  shiitake mushrooms
+
+=== enoki ===
+  Enoki mushrooms
+  enoki mushrooms
+
+=== salad ===
+  Salad
+  Salad greens
+  cabbage salad
+  chicken salad
+  corn salad
+  cucumber salad
+  egg salad
+  fruit salad
+  mixed salad
+  mixed salad greens
+  salad
+  salad dressing
+  salad greens
+  salad vegetables
+  seafood salad
+  side salad
+  vegetable salad
+

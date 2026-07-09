@@ -1,7 +1,11 @@
+# Model Training & Usage Guide
+
+This README contains all training details, hyperparameters, and results,  
+followed by step‑by‑step instructions for re‑training the model and running inference.
 
 ## **Training Procedure**
 
-## Model Structure
+### Model Structure
 
 | Component | Description |
 | :--- | :--- |
@@ -48,7 +52,7 @@
 
 ---
 
-## Hardware and Training Time
+### Hardware and Training Time
 
 - **GPU:** NVIDIA RTX 2060 (6GB VRAM)
 - **CPU:** Xeon e5 2660 v3
@@ -61,6 +65,12 @@
 ---
 
 ## 🏋️ Training from Scratch
+
+### 0. Clone the Repository
+```bash
+git clone https://github.com/Alas-V/ConvNeXt-CLF-75.git
+cd ConvNeXt-CLF-75
+```
 
 ### 1. Dataset Preparation
 Follow the instructions in [`dataset_preparation/`](../dataset_preparation/) to clean the raw MM‑Food‑100K and generate `ingredient_dict.pkl`.

@@ -3,7 +3,7 @@
 This README contains all training details, hyperparameters, and results,  
 followed by step‑by‑step instructions for re‑training the model and running inference.
 
-## **Training Procedure**
+## 🧪**Training Procedure**
 
 ### Model Structure
 
@@ -64,7 +64,7 @@ followed by step‑by‑step instructions for re‑training the model and runnin
 
 ---
 
-## 🏋️ Training from Scratch
+## 🏋️**Training from Scratch**
 
 ### 0. Clone the Repository
 ```bash
@@ -113,3 +113,34 @@ pip install requirements.txt
 python -m model.train
 ```
 
+## 🖩**Inference**
+
+You can run predictions with a single command
+
+### Local inference (command line)
+
+```bash
+python inference.py \
+  --image path/to/photo.jpg \
+  --checkpoint best_checkpoint.pth.tar
+```
+You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-CLF-75/blob/main/checkpoint.pth.tar)
+
+| Argument | Description | Default | 
+| :--- | :--- || :--- | 
+| --image | Path to an image or a folder | required | 
+| --checkpoint | Path to the model checkpoint | required | 
+| --threshold | Confidence threshold (0.0–1.0) | 0.5 | 
+| --mode | text prints ingredients, image saves annotated photo | text | 
+| --output_dir | Folder for annotated images (only with --mode image) | predictions | 
+| --device | cuda or cpu | cuda if available, else cpu | 
+
+### For Python script 
+
+```bash
+from inference import load_model_and_vocab, predict_from_path
+
+model, ingredient_list = load_model_and_vocab("best_checkpoint.pth.tar", "cuda")
+preds, probs, img = predict_from_path("photo.jpg", model, ingredient_list, "cuda")
+print(preds)
+```

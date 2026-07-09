@@ -120,9 +120,7 @@ You can run predictions with a single command
 ### Local inference (command line)
 
 ```bash
-python inference.py \
-  --image path/to/photo.jpg \
-  --checkpoint best_checkpoint.pth.tar
+python inference.py --image path/to/photo.jpg --checkpoint checkpoint.pth.tar
 ```
 You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-CLF-75/blob/main/checkpoint.pth.tar)
 

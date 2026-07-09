@@ -46,9 +46,7 @@
 | Staged Unfreezing | 37 | 0.6426 | 0.7097 | 0.0479 |
 | Final Feature Extraction after SU | 40 | **0.6546** | **0.7142** | 0.0489 |
 
-
 ---
-
 
 ## Hardware and Training Time
 
@@ -59,3 +57,49 @@
 - **Training time:** Approximately 1 hour for 1 epoch
 - **Batch size:** 10 
 - **Mixed precision:** AMP via `torch.amp`
+
+---
+
+## 🏋️ Training from Scratch
+
+### 1. Dataset Preparation
+Follow the instructions in [`dataset_preparation/`](../dataset_preparation/) to clean the raw MM‑Food‑100K and generate `ingredient_dict.pkl`.
+
+### 2. Configuration
+Edit `config.py` or override parameters. Settings:
+
+| Parameter | Description |
+| :--- | :--- |
+| `BATCH_SIZE` | 10 (optimal for 6GB VRAM) |
+| `VAL_SUBSET_SIZE` | Image quantity for validation set |
+| `IMG_SIZE` | 640 (default) |
+| `WEIGHT_DECAY` | 1e-4 |
+| `EPOCHS` | Quantity of epochs |
+| `HEAD_LR` / `BACKBONE_LR` | Learning rates for head and backbone |
+| `DATA_DIR` | Path to the cleaned HuggingFace dataset |
+| `VOCAB_PATH` | Path to `ingredient_dict.pkl` |
+| `OLD_CHECKPOINT_PATH` | Path for resuming training |
+| `NEW_CHECKPOINT_PATH` | Path for saving checkpoint is |
+| `SEED` | 42 (for validation set fixation) |
+| `NUM_INGREDIENTS` | 75 |
+
+### 3. Start Training
+for linux 
+```bash
+cd ~./model
+python - m venv venv
+source .venv/bin/activate
+# If you use terminal shell, activate accordingly (e.g. for fish: source venv/bin/activate.fish)
+pip install requirements.txt
+python -m model.train
+```
+
+for windows 
+```bash
+cd model
+python -m venv venv
+.\venv\Scripts\Activate
+pip install requirements.txt
+python -m model.train
+```
+

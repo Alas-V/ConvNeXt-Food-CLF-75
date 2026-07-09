@@ -127,7 +127,7 @@ python inference.py \
 You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-CLF-75/blob/main/checkpoint.pth.tar)
 
 | Argument | Description | Default | 
-| :--- | :--- || :--- | 
+| :--- | :--- | :--- | 
 | --image | Path to an image or a folder | required | 
 | --checkpoint | Path to the model checkpoint | required | 
 | --threshold | Confidence threshold (0.0–1.0) | 0.5 | 

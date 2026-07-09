@@ -84,12 +84,13 @@ For a quick overview, see the [Hugging Face model card](https://huggingface.co/A
 
 ##🙏 Acknowledgements
 
-    [MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for the original dataset.
+[MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for the original dataset.
 
-    [timm](https://github.com/huggingface/pytorch-image-models) for the ConvNeXt backbone.
+[timm](https://github.com/huggingface/pytorch-image-models) for the ConvNeXt backbone.
 
-    [Albumentations](https://albumentations.ai/) for image augmentations.
+[Albumentations](https://albumentations.ai/) for image augmentations.
 
+---
 
 ##📄 License
 

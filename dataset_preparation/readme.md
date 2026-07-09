@@ -49,6 +49,26 @@ roast chicken
 - **75 classes**
 - **~88k total images** (86.3k train, 2k validation — split performed later in the training script)
 
+## Supported 75 Classes (in alphabetical order)
+| | | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| almond | cheese butter | grape | onion | sauce |
+| apple | chicken duck | ice cream | orange | sausage |
+| asparagus | chocolate | juice | pasta | seaweed |
+| avocado | cilantro mint | kiwi | peach | shellfish |
+| banana | coffee | lamb | peanut | shrimp |
+| beans | corn | lemon | pear | soup |
+| biscuit | crab | lettuce | peas | spring onion |
+| bread | cucumber | mango | pepper | sprouts |
+| broccoli | date | meat | pineapple | steak |
+| cabbage | egg | melon | pizza | strawberry |
+| cake | eggplant | milk | pork | tea |
+| carrot | fish | mushroom | potato | tofu |
+| cashew | french fries | noodle | pumpkin | tomato |
+| cauliflower | garlic | okra | rice | watermelon |
+| celery stick | ginger | olives | salad | wonton dumplings |
+
+
 ### Data Splits
 | Split | Images |
 | :--- | :--- |

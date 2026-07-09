@@ -82,7 +82,7 @@ For a quick overview, see the [Hugging Face model card](https://huggingface.co/A
 
 ---
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 [MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for the original dataset.
 

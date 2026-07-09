@@ -92,6 +92,6 @@ For a quick overview, see the [Hugging Face model card](https://huggingface.co/A
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.

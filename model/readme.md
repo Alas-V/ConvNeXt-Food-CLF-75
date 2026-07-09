@@ -84,9 +84,9 @@ Edit `config.py` or override parameters. Settings:
 | `NUM_INGREDIENTS` | 75 |
 
 ### 3. Start Training
-for linux 
+for Linux 
 ```bash
-cd ~./model
+cd ~/model
 python - m venv venv
 source .venv/bin/activate
 # If you use terminal shell, activate accordingly (e.g. for fish: source venv/bin/activate.fish)
@@ -94,7 +94,7 @@ pip install requirements.txt
 python -m model.train
 ```
 
-for windows 
+for Windows 
 ```bash
 cd model
 python -m venv venv

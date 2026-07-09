@@ -2,8 +2,10 @@
 
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-Alas--V%2Fconvnext--clf--75-ffd21e?style=flat-square)](https://huggingface.co/Alas-V/convnext-clf-75)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)]()
+[
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)]()
 [![PyTorch 2.5](https://img.shields.io/badge/PyTorch-2.5-red?style=flat-square&logo=pytorch)]()
+
 [![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)]()
 [![mAP](https://img.shields.io/badge/mAP-0.7142-success?style=flat-square)]()
 
@@ -16,7 +18,7 @@ Trained on a cleaned subset of [MM‑Food‑100K](https://huggingface.co/dataset
 
 ## 📖 What This Model Does
 
-**ConvNeXt‑CLF‑75** takes an RGB food image, resizes it to 640×640, and predicts which of the **75 known ingredients** are present. It performs **multi‑label classification** – a single dish can contain multiple ingredients (e.g., “chicken”, “rice”, “sauce”).
+**ConvNeXt‑CLF‑75** takes an RGB food image, resizes it to 640×640, and predicts which of the **75 known ingredients** are present. It performs **multi‑label classification** – a single dish can contain multiple ingredients (e.g., “rice”, “sauce”).
 
 Internally, the model produces a compact feature vector (embedding) that can be reused for downstream tasks. In our pipeline, this embedding is fed into a **segmentation network** to guide pixel‑wise mask prediction, forming part of a calorie‑estimation system.
 
@@ -27,22 +29,8 @@ Internally, the model produces a compact feature vector (embedding) that can be 
   - Optional: feature embedding from the penultimate layer (for transfer learning)
 
 ---
-
-## 💻 Hardware & Environment
-
-All training and inference were performed on a single consumer GPU:
-
-| Component | Detail |
-| :--- | :--- |
-| GPU | NVIDIA RTX 2060 (6 GB VRAM) |
-| CPU | Intel Xeon E5‑2660 v3 |
-| OS | CachyOS (Arch‑based) |
-| Python | 3.10+ |
-| PyTorch | 2.5 |
-| timm | 1.0.9 |
-| Mixed precision | AMP (`torch.amp`) |
-
-Despite the limited 6 GB VRAM, the model trains comfortably with a batch size of 10 at 640×640 resolution.
+## 🧀 Prediction Examples
+TODO
 
 ---
 
@@ -77,8 +65,25 @@ Final metrics after a 4‑stage training process:
 | **mAP** | 0.7142 |
 | Val Loss | 0.0489 |
 
-**Complete training logs, hyperparameters, and stage‑by‑stage results are documented in the [`model/`](model/) folder.**  
-For a quick overview, see the [Hugging Face model card](https://huggingface.co/Alas-V/convnext-clf-75).
+**Complete training logs, hyperparameters, and stage‑by‑stage results are documented in the [`model/`](model/) folder.** 
+
+---
+
+## 💻 Hardware & Environment
+
+All training and inference were performed on a single consumer GPU:
+
+| Component | Detail |
+| :--- | :--- |
+| GPU | NVIDIA RTX 2060 (6 GB VRAM) |
+| CPU | Intel Xeon E5‑2660 v3 |
+| OS | CachyOS (Arch‑based) |
+| Python | 3.10+ |
+| PyTorch | 2.5 |
+| timm | 1.0.9 |
+| Mixed precision | AMP (`torch.amp`) |
+
+Despite the limited 6 GB VRAM, the model trains comfortably with a batch size of 10 at 640×640 resolution.
 
 ---
 

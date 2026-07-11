@@ -68,8 +68,8 @@ followed by step‑by‑step instructions for re‑training the model and runnin
 
 ### 0. Clone the Repository
 ```bash
-git clone https://github.com/Alas-V/ConvNeXt-CLF-75.git
-cd ConvNeXt-CLF-75
+git clone https://github.com/Alas-V/ConvNeXt-Food-CLF-75.git
+cd ConvNeXt-Food-CLF-75
 ```
 
 ### 1. Dataset Preparation
@@ -122,7 +122,7 @@ You can run predictions with a single command
 ```bash
 python inference.py --image path/to/photo.jpg --checkpoint checkpoint.pth.tar
 ```
-You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-CLF-75/blob/main/checkpoint.pth.tar)
+You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75/blob/main/checkpoint.pth.tar)
 
 | Argument | Description | Default | 
 | :--- | :--- | :--- | 

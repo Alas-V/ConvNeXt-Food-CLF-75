@@ -94,7 +94,7 @@ Edit `config.py` or override parameters. Settings:
 | `NUM_INGREDIENTS` | 75 |
 
 ### 3. Start Training
-for Linux 
+for Linux / MacOS
 ```bash
 cd ConvNeXt-Food-CLF-75
 python -m venv venv
@@ -119,9 +119,25 @@ You can run predictions with a single command
 
 ### Local inference (command line)
 
+for Linux / MacOS
 ```bash
-python inference.py --image path/to/photo.jpg --checkpoint checkpoint.pth.tar
+cd ConvNeXt-Food-CLF-75
+python -m venv venv
+source venv/bin/activate
+# If you use terminal shell, activate accordingly (e.g. for fish: source venv/bin/activate.fish)
+pip install -r requirements-inference.txt
+python -m classifier.inference --image path/to/photo.jpg --checkpoint checkpoint.pth.tar
 ```
+
+for Windows
+```bash
+cd ConvNeXt-Food-CLF-75
+python -m venv venv
+.\venv\Scripts\Activate
+pip install -r requirements-inference.txt
+python -m classifier.inference --image path/to/photo.jpg --checkpoint checkpoint.pth.tar
+```
+
 You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75/blob/main/pytorch_model.bin)
 
 | Argument | Description | Default | 

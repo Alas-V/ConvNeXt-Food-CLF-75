@@ -134,7 +134,7 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 
 ---
 
-### **⚠️ As well model can hallucinate or name not all ingredients on the image. Examples**
+### **⚠️ As well model can hallucinate or name not all ingredients on the image.**
 
 <img width="1325" height="981" alt="Image" src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" />
 

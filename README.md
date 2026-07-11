@@ -1,9 +1,9 @@
 # ConvNeXt-Food-CLF-75
 
-[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-Alas--V%2Fconvnext--clf--75-ffd21e?style=flat-square)]((https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75))
+[![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-Alas--V%2FConvNeXt--Food--CLF--75-ffd21e?style=flat-square)](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
-[
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)]()
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)]()
 [![PyTorch 2.5](https://img.shields.io/badge/PyTorch-2.5-red?style=flat-square&logo=pytorch)]()
 
 [![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)]()
@@ -12,7 +12,7 @@
 **Multi‑label food ingredient classifier** built on **ConvNeXt‑Tiny** with **CBAM attention** and **GeM pooling**.  
 Trained on a cleaned subset of [MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for **75 ingredients**.
 
-> 🚀 **Ready‑to‑use model and quick start**: [Hugging Face Model Card](https://huggingface.co/Alas-V/convnext-clf-75)
+> 🚀 **Ready‑to‑use model and quick start**: [Hugging Face Model Card](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75)
 
 ---
 
@@ -119,6 +119,9 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 
 ---
 ## 🧀 Prediction Examples
+
+**Correct predictions**
+
 <img width="1448" height="972" alt="Image" src="https://github.com/user-attachments/assets/5e76c336-2790-4028-860d-643dd8dd830b" />
 
 <img width="1315" height="971" alt="Image" src="https://github.com/user-attachments/assets/793c9be7-b35e-46fe-8acb-5774de1849fe" />
@@ -131,7 +134,7 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 
 ---
 
-### ⚠️ As well model can hallucinate or name not all ingredients on the image. Examples
+### **⚠️ As well model can hallucinate or name not all ingredients on the image. Examples**
 
 <img width="1325" height="981" alt="Image" src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" />
 

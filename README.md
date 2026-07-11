@@ -47,28 +47,6 @@ Internally, the model produces a compact feature vector (embedding) that can be 
 | cauliflower | garlic | okra | rice | watermelon |
 | celery stick | ginger | olives | salad | wonton dumplings |
 
----
-## 🧀 Prediction Examples
-<img width="1448" height="972" alt="Image" src="https://github.com/user-attachments/assets/5e76c336-2790-4028-860d-643dd8dd830b" />
-
-<img width="1315" height="971" alt="Image" src="https://github.com/user-attachments/assets/793c9be7-b35e-46fe-8acb-5774de1849fe" />
-
-<img width="1310" height="1046" alt="Image" src="https://github.com/user-attachments/assets/e42850b6-2891-46ac-9a2d-f960a27d3ba4" />
-
-<img width="1113" height="996" alt="Image" src="https://github.com/user-attachments/assets/3ddec75c-140b-48fd-85e0-a4794a2564fa" />
-
-<img width="1318" height="1003" alt="Image" src="https://github.com/user-attachments/assets/9361a11e-9267-4747-9ecc-afa0e008b4c2" />
-
-<img width="1079" height="981" alt="Image" src="https://github.com/user-attachments/assets/3dbba780-5a33-4a91-9f33-a46db5e57a75" />
-
----
-
-As well model can hallucinate or name not all ingredients on the image. Examples
-
-<img width="1325" height="981" alt="Image" src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" />
-
-<img width="1113" height="996" alt="Image" src="https://github.com/user-attachments/assets/d8a7de56-eaed-4351-8027-4007b4de0f0d" />
-
 
 ---
 
@@ -138,3 +116,24 @@ Despite the limited 6 GB VRAM, the model trains comfortably with a batch size of
 ## 📄 License
 
 This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+
+---
+## 🧀 Prediction Examples
+<img width="1448" height="972" alt="Image" src="https://github.com/user-attachments/assets/5e76c336-2790-4028-860d-643dd8dd830b" />
+
+<img width="1315" height="971" alt="Image" src="https://github.com/user-attachments/assets/793c9be7-b35e-46fe-8acb-5774de1849fe" />
+
+<img width="1310" height="1046" alt="Image" src="https://github.com/user-attachments/assets/e42850b6-2891-46ac-9a2d-f960a27d3ba4" />
+
+<img width="1318" height="1003" alt="Image" src="https://github.com/user-attachments/assets/9361a11e-9267-4747-9ecc-afa0e008b4c2" />
+
+<img width="1079" height="981" alt="Image" src="https://github.com/user-attachments/assets/3dbba780-5a33-4a91-9f33-a46db5e57a75" />
+
+---
+
+### ⚠️ As well model can hallucinate or name not all ingredients on the image. Examples
+
+<img width="1325" height="981" alt="Image" src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" />
+
+<img width="1113" height="996" alt="Image" src="https://github.com/user-attachments/assets/d8a7de56-eaed-4351-8027-4007b4de0f0d" />
+

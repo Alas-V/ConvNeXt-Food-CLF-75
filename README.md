@@ -3,11 +3,11 @@
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-Alas--V%2FConvNeXt--Food--CLF--75-ffd21e?style=flat-square)](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)]()
-[![PyTorch 2.5](https://img.shields.io/badge/PyTorch-2.5-red?style=flat-square&logo=pytorch)]()
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](model/)
+[![PyTorch 2.5](https://img.shields.io/badge/PyTorch-2.5-red?style=flat-square&logo=pytorch)](model/)
 
-[![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)]()
-[![mAP](https://img.shields.io/badge/mAP-0.7142-success?style=flat-square)]()
+[![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)](model/)
+[![mAP](https://img.shields.io/badge/mAP-0.7142-success?style=flat-square)](model/)
 
 **Multi‑label food ingredient classifier** built on **ConvNeXt‑Tiny** with **CBAM attention** and **GeM pooling**.  
 Trained on a cleaned subset of [MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for **75 ingredients**.

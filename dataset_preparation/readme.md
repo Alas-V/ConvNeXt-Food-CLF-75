@@ -1,7 +1,7 @@
 ## Dataset Preparation
 
 ### Source Data
-- **Original dataset:** [MM-Food-100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) — a large-scale food dataset containing ~100,000 images with over 4,000 ingredient labels.
+- **Original dataset:** [MM-Food-100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) - a large-scale food dataset containing ~100,000 images with over 4,000 ingredient labels.
 - **Challenge:** The dataset is highly noisy, contains many duplicates, and has severe class imbalance. Many ingredients are visually identical or semantically overlapping (e.g., "enoki mushrooms", "shiitake mushrooms" → "mushroom").
 
 ### Cleaning Pipeline
@@ -18,7 +18,7 @@ The dataset was cleaned in several stages to create a high-quality subset of 75 
 **Script:** `02_extract_raw_mapping.py`  
 **Input:** Original MM-Food-100K dataset (loaded via HuggingFace `datasets`) + `01_target_classes.txt`.  
 **Process:** For each target class, it searches the entire dataset for all ingredient names that contain the class name (case‑insensitive).  
-**Output:** `02_mapping_raw.txt` — a raw list of matches, e.g.:
+**Output:** `02_mapping_raw.txt` - a raw list of matches, e.g.:
 === chicken ===
 chicken
 fried chicken
@@ -34,7 +34,7 @@ roast chicken
 **Script:** `03_count_images_per_class.py`  
 **Input:** `04_mapping_cleaned.txt` + original dataset.  
 **Process:** For each master class, count how many unique images contain at least one ingredient from that class.  
-**Output:** `03_class_counts.txt` — distribution of images per class. Classes with fewer than **100** images are removed.
+**Output:** `03_class_counts.txt` - distribution of images per class. Classes with fewer than **100** images are removed.
 
 #### Step 5: Build the clean dataset
 **Script:** `05_build_clean_dataset.py`  
@@ -47,7 +47,7 @@ roast chicken
 
 **Output:** Clean dataset with:
 - **75 classes**
-- **~88k total images** (86.3k train, 2k validation — split performed later in the training script)
+- **~88k total images** (86.3k train, 2k validation - split performed later in the training script)
 
 ## Supported 75 Classes (in alphabetical order)
 | | | | | |

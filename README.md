@@ -103,21 +103,6 @@ Despite the limited 6 GB VRAM, the model trains comfortably with a batch size of
 
 ---
 
-## 🙏 Acknowledgements
-
-[MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for the original dataset.
-
-[timm](https://github.com/huggingface/pytorch-image-models) for the ConvNeXt backbone.
-
-[Albumentations](https://albumentations.ai/) for image augmentations.
-
----
-
-## 📄 License
-
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
-
----
 ## 🧀 Prediction Examples
 
 **Correct predictions**
@@ -139,4 +124,37 @@ This project is licensed under the Apache 2.0 License. See the LICENSE file for 
 <img width="1325" height="981" alt="Image" src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" />
 
 <img width="1113" height="996" alt="Image" src="https://github.com/user-attachments/assets/d8a7de56-eaed-4351-8027-4007b4de0f0d" />
+
+---
+
+## 🙏 Acknowledgements
+
+[MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for the original dataset.
+
+[timm](https://github.com/huggingface/pytorch-image-models) for the ConvNeXt backbone.
+
+[Albumentations](https://albumentations.ai/) for image augmentations.
+
+---
+
+
+## Citation
+
+If you use this model or the cleaned dataset in your research or project, please cite:
+
+```bibtex
+@misc{alasv2025convnextfoodclf75,
+  author       = {Artem V.},
+  title        = {ConvNeXt-Food-CLF-75: A Multi-Label Food Ingredient Classifier},
+  year         = {2025},
+  howpublished = {\url{https://github.com/Alas-V/ConvNeXt-Food-CLF-75}},
+  note         = {Model weights available at \url{https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75}}
+}
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 

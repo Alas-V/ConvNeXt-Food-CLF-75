@@ -119,11 +119,9 @@ Despite the limited 6 GB VRAM, the model trains comfortably with a batch size of
 
 ---
 
-### **⚠️ As well model can hallucinate or name not all ingredients on the image.**
+### **⚠️ The model can occasionally hallucinate ingredients or fail to detect all ingredients present.**
 
-<img width="1325" height="981" alt="Image" src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" />
-
-<img width="1113" height="996" alt="Image" src="https://github.com/user-attachments/assets/d8a7de56-eaed-4351-8027-4007b4de0f0d" />
+<img src="https://github.com/user-attachments/assets/693eea71-ac2b-44fc-9f0b-839beaf2aebb" width="600"> <img src="https://github.com/user-attachments/assets/d8a7de56-eaed-4351-8027-4007b4de0f0d" width="600">
 
 ---
 

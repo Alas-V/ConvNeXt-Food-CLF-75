@@ -137,7 +137,7 @@ pip install -r requirements-inference.txt
 python -m model.inference --image path/to/photo.jpg --checkpoint checkpoint.pth.tar
 ```
 
-You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75/blob/main/pytorch_model.bin)
+You can find my [checkpoint on Hugging Face](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75/blob/main/checkpoint.pth.tar)
 
 | Argument | Description | Default | 
 | :--- | :--- | :--- | 

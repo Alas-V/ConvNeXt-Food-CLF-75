@@ -139,10 +139,10 @@ For ready‑to‑run commands, see the [Hugging Face Model Card](https://hugging
 If you use this model or the cleaned dataset in your research or project, please cite:
 
 ```bibtex
-@misc{alasv2025convnextfoodclf75,
+@misc{alasv2026convnextfoodclf75,
   author       = {Artem V.},
   title        = {ConvNeXt-Food-CLF-75: A Multi-Label Food Ingredient Classifier},
-  year         = {2025},
+  year         = {2026},
   howpublished = {\url{https://github.com/Alas-V/ConvNeXt-Food-CLF-75}},
   note         = {Model weights available at \url{https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75}}
 }

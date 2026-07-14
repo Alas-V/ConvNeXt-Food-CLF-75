@@ -4,7 +4,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](model/)
-[![PyTorch 2.5](https://img.shields.io/badge/PyTorch-2.5-red?style=flat-square&logo=pytorch)](model/)
+[![PyTorch 2.5](https://img.shields.io/badge/PyTorch-12.5-red?style=flat-square&logo=pytorch)](model/)
 
 [![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)](model/)
 [![mAP](https://img.shields.io/badge/mAP-0.7142-success?style=flat-square)](model/)

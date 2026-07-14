@@ -106,11 +106,7 @@ Despite the limited 6 GB VRAM, the model trains comfortably with a batch size of
 ---
 
 ### 🚀 Quick Inference
-For ready‑to‑run commands, see the [Hugging Face Model Card](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75) or the [`model/`](model/) folder in this repository.
-
-Or
-
-**👉 [Try it live on Spaces](https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75) - no installation required!**
+For ready‑to‑run commands, see the [Hugging Face Model Card](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75) or the [`model/`](model/) folder in this repository or [Try it live on Spaces](https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75) - no installation required!**
 
 ---
 

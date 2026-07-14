@@ -114,6 +114,8 @@ python -m model.train
 
 ## 🖩**Inference**
 
+**👉 [Try it live on Spaces](https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75) - no installation required!**
+
 You can run predictions with a single command
 
 ### Local inference (command line)

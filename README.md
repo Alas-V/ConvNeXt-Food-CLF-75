@@ -11,6 +11,7 @@
 **Multi‑label food ingredient classifier** built on **ConvNeXt‑Tiny** with **CBAM attention** and **GeM pooling**.  
 Trained on a cleaned subset of [MM‑Food‑100K](https://huggingface.co/datasets/Codatta/MM-Food-100K) for **75 ingredients**.
 
+**📊 Key Metrics:** Macro F1 = 0.6546 | mAP = 0.7142
 
 > 🚀 **Ready‑to‑use model and quick start**: [Hugging Face Model Card](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75)
 

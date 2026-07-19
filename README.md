@@ -81,8 +81,8 @@
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-Alas--V%2FConvNeXt--Food--CLF--75-ffd21e?style=flat-square)](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
-[![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)]()
-[![mAP](https://img.shields.io/badge/mAP-0.7142-success?style=flat-square)]()
+[![F1 Macro](https://img.shields.io/badge/F1%20Macro-0.6546-brightgreen?style=flat-square)](https://github.com/Alas-V/ConvNeXt-Food-CLF-75/tree/main/model)
+[![mAP](https://img.shields.io/badge/mAP-0.7142-success?style=flat-square)](https://github.com/Alas-V/ConvNeXt-Food-CLF-75/tree/main/model)
 
 [![HF Space](https://img.shields.io/badge/HF%20Space-🚀%20Try%20for%20free-FFB800?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75)
 

@@ -1,3 +1,83 @@
+<!-- METRICS: Macro F1=0.6546, mAP=0.7142, Val Loss=0.0489 -->
+
+<!--
+{
+  "model_name": "ConvNeXt-Food-CLF-75",
+  "version": "1.0.0",
+  "author": "Artem V.",
+  "license": "Apache-2.0",
+  "date_created": "2026-01-15",
+  "framework": "PyTorch 2.5",
+  "task": "multi-label-image-classification",
+  "classes_count": 75,
+  "input_size": "640x640",
+  "output_format": "ingredient names + probabilities (threshold 0.5)",
+  "model_architecture": {
+    "backbone": "ConvNeXt-Tiny (ImageNet-1k pretrained)",
+    "attention": "CBAM (Channel + Spatial)",
+    "pooling": "GeM (learnable p)",
+    "head": "Linear(1024->512)->GELU->Dropout(0.3)->Linear(512->75)",
+    "embedding_size": 512,
+    "activation": "GELU",
+    "dropout_rate": 0.3
+  },
+  "dataset": {
+    "name": "MM-Food-100K",
+    "url": "https://huggingface.co/datasets/Codatta/MM-Food-100K",
+    "version": "2024-01-15",
+    "cleaning_pipeline": "https://github.com/Alas-V/ConvNeXt-Food-CLF-75/tree/main/dataset_preparation",
+    "cleaning_steps": [
+      "manual target class curation (103 initial classes)",
+      "automated ingredient extraction and mapping",
+      "manual cleaning and merging of semantically identical ingredients",
+      "filtering classes with <100 images",
+      "multi-hot label vectorization"
+    ],
+    "final_stats": {
+      "total_images": 88000,
+      "train_images": 86300,
+      "validation_images": 2000,
+      "classes": 75
+    }
+  },
+  "training_config": {
+    "optimizer": "AdamW",
+    "learning_rate": { "head": "1e-4", "backbone": "5e-6" },
+    "scheduler": "OneCycleLR (early) / CosineAnnealingWarmRestarts (late)",
+    "weight_decay": "1e-4",
+    "batch_size": 10,
+    "loss_function": "BCEWithLogitsLoss (class-weighted)",
+    "mixup_alpha": 0.2,
+    "mixup_probability": 0.5,
+    "mixed_precision": "AMP"
+  },
+  "training_stages": [
+    { "name": "Feature Extraction", "epochs": 28, "f1_macro": 0.3533, "map": 0.5067, "val_loss": 0.0637 },
+    { "name": "Discriminative Fine-Tuning", "epochs": 36, "f1_macro": 0.6121, "map": 0.7017, "val_loss": 0.0469 },
+    { "name": "Staged Unfreezing", "epochs": 37, "f1_macro": 0.6426, "map": 0.7097, "val_loss": 0.0479 },
+    { "name": "Final Feature Extraction", "epochs": 40, "f1_macro": 0.6546, "map": 0.7142, "val_loss": 0.0489 }
+  ],
+  "metrics": {
+    "macro_f1": 0.6546,
+    "map": 0.7142,
+    "val_loss": 0.0489
+  },
+  "runtime_environment": {
+    "hardware": { "gpu": "NVIDIA RTX 2060 (6GB VRAM)", "cpu": "Intel Xeon E5-2660 v3" },
+    "software": { "os": "CachyOS (Arch-based)", "python": "3.10+", "pytorch": "2.5", "timm": "1.0.9" },
+    "training_time": "~1 hour per epoch"
+  },
+  "code_artifacts": {
+    "source_code": "https://github.com/Alas-V/ConvNeXt-Food-CLF-75",
+    "model_weights": "https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75",
+    "demo": "https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75",
+    "dataset_cleaning_pipeline": "https://github.com/Alas-V/ConvNeXt-Food-CLF-75/tree/main/dataset_preparation"
+  },
+  "open_source": true,
+  "full_code_available": true
+}
+-->
+
 # ConvNeXt-Food-CLF-75
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Model-Alas--V%2FConvNeXt--Food--CLF--75-ffd21e?style=flat-square)](https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)

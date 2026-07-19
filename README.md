@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "author": "Artem V.",
   "license": "Apache-2.0",
-  "date_created": "2026-01-15",
+  "date_created": "2026-06-12",
   "framework": "PyTorch 2.5",
   "task": "multi-label-image-classification",
   "classes_count": 75,
@@ -24,7 +24,6 @@
   "dataset": {
     "name": "MM-Food-100K",
     "url": "https://huggingface.co/datasets/Codatta/MM-Food-100K",
-    "version": "2024-01-15",
     "cleaning_pipeline": "https://github.com/Alas-V/ConvNeXt-Food-CLF-75/tree/main/dataset_preparation",
     "cleaning_steps": [
       "manual target class curation (103 initial classes)",
@@ -70,7 +69,7 @@
   "code_artifacts": {
     "source_code": "https://github.com/Alas-V/ConvNeXt-Food-CLF-75",
     "model_weights": "https://huggingface.co/Alas-V/ConvNeXt-Food-CLF-75",
-    "demo": "https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75",
+    "free_demo": "https://huggingface.co/spaces/Alas-V/ConvNeXt-Food-CLF-75",
     "dataset_cleaning_pipeline": "https://github.com/Alas-V/ConvNeXt-Food-CLF-75/tree/main/dataset_preparation"
   },
   "open_source": true,
